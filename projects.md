@@ -177,23 +177,6 @@ nav-menu: true
 		</section>
 
 		<section>
-			<a href="https://github.com/sochan/KidColourMobile" target="_blank" class="image">
-				<img src="{{ "assets/images/colour.jpg" | relative_url }}" alt="" data-position="center center" />
-			</a>
-			<div class="content">
-				<div class="inner">
-					<header class="major">
-						<h3>Mobile System Development-Learning Colours for Kids, 2018</h3>
-					</header>
-					<p>  <a href="https://github.com/sochan/KidColourMobile" class="icon fa-github" target="_blank"><span class="label">Github</span></a></p>
-					<ul class="actions">
-						<li><a href="https://github.com/sochan/KidColourMobile" class="button" target="_blank">Learn more</a></li>
-					</ul>
-				</div>
-			</div>
-		</section>
-
-		<section>
 			<a href="#" class="image">
 				<img src="{{ "assets/images/UNDP_SharePoint.jpg" | relative_url }}" alt="" data-position="center center" />
 			</a>
