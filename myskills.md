@@ -19,9 +19,9 @@ o	NodeJs, ReactJs, C# .NET Framework 2.0, 3.5 and 4.0, TFS & other SVN, Agile, M
 
 o	HTML5, Angular JS, JavaScript, jQuery & AJAX, PHP, Joomla, WordPress, CMS in .NET.
 
-o	Oracle, SQL Server, MySQL.
+o	Oracle, SQL Server, MySQL, CloudantDB, MongoDB.
 
 o	C, C++, Java, Android, Lua, Photoshop.
 
-o	Software & Hardware, Network & Server Systems, Windows Server, Linux, Synology
+o	Software & Hardware, Network & Server Systems, Windows Server, Linux, Synology.
 
