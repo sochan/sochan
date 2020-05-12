@@ -15,7 +15,7 @@ o	Dynamic data mapping on Google map, KML files loading with GeoXML.
 
 o	Git, Docker, Docker-compose.
 
-o	NodeJs, ReactJs, C# .NET Framework 2.0, 3.5 and 4.0, TFS & other SVN, Agile, MVC ASP.Net, Fluent NHibernate, Ms. SharePoint.
+o	NodeJs, ReactJs, RESTful API, C# .NET Framework 2.0, 3.5 and 4.0, TFS & other SVN, Agile, MVC ASP.Net, Fluent NHibernate, Ms. SharePoint.
 
 o	HTML5, Angular JS, JavaScript, jQuery & AJAX, PHP, Joomla, WordPress, CMS in .NET.
 

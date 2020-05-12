@@ -24,10 +24,10 @@ image: assets/images/deakin_2019.jpg
 
 <h4>Achievements	: </h4>
 <ul class='alt'>
-	<li>EEG Brain Signals, Machine Learning to Control Sphero 2.0, a Major Thesis of MIT at Deakin, graded HD of 83%.</li>	
-	<li>Annotating Text using online vocabularies for CSIRO, NodeJS, CloudantDB, IBM Natural Language Understanding, RESTful API, Python, IBM Cloud, Git, graded HD of 100%.</li> 
-	<li>Mobile Application, HTML, CSS, JavaScript, AWS elasticbeanstalk, Git, graded HD of 81%</li>
-	<li>SOA Project, Be Your Chef, NodeJS, IBM Watson Chat bots, CloudantDB, IBM Cloud, Git.</li>
+	<li>EEG Brain Signals, Machine Learning to Control Sphero 2.0, a Major Thesis of MIT at Deakin, graded HD of 83%. <a class='icon alt fa-github' href='https://github.com/sochan/insightsquero2' target='_blank'>&nbsp;See Git</a>.</li>	
+	<li>Annotating Text using online vocabularies for CSIRO, NodeJS, CloudantDB, IBM Natural Language Understanding, RESTful API, Python, IBM Cloud, <a class='icon alt fa-github' href='https://github.com/sochan/CSIROAnnotatingText' target='_blank'>&nbsp;See Git</a>, graded HD of 100%.</li> 
+	<li>Mobile Application, HTML, CSS, JavaScript, AWS elasticbeanstalk, <a class='icon alt fa-github' href='https://github.com/sochan/KidColourMobile' target='_blank'>&nbsp;See Git</a>, graded HD of 81%</li>
+	<li>SOA Project, Be Your Chef, NodeJS, IBM Watson Chat bots, CloudantDB, IBM Cloud, graded HD of 90%, <a class='icon alt fa-github' href='https://github.com/sochan/CookingWatson' target='_blank'>&nbsp;See Git</a>.</li>
 	<li>VR Development with Unity and VR Content creation with 3D Studio Max.</li>
 	<li>Other technologies: Amazon Web Service (AWS), .NET CORE, Blockchain, Hyperledger Composer & Fabric, Docker.</li>
 </ul>
