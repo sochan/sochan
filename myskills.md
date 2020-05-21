@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Skills
-description: o	Project Management, System Architect, Analysis and Programming. <br/><br/> o	Technologies, Web and Windows application, Mobile Application, JavaScript, C#, NodeJS, ReactJS, .NET CORE, Python, JAVA, C++, C, IBM Cloud, Google Cloud, AZURE, MVC, MVVM, HTML5, jQuery, Bootstrap, CSS, OOP, Lua.<br/><br/> o Databases, Ms. SQL Server, MySQL, CloudantDB, MongoDB.
+description: o	Project Management, System Architect, Analysis and Programming. <br/><br/> o Cloud Technologies, Google Cloud, IBM Cloud, AWS<br/><br/> o	Technologies, IoT, Blockchain Web and Windows application, Mobile Application, JavaScript, C#, NodeJS, ReactJS, .NET CORE, Python, JAVA, C++, C, IBM Cloud, Google Cloud, AZURE, MVC, MVVM, HTML5, jQuery, Bootstrap, CSS, OOP, Lua.<br/><br/> o Databases, Ms. SQL Server, MySQL, CloudantDB, MongoDB.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 o	Project management with Agile/SCRUM
+
+o Cloud Technologies, Google Cloud, IBM Cloud, AWS, Blockchain
 
 o	IBM Natural Language Understanding.
 
