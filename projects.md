@@ -55,6 +55,24 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
+
+<section>
+			<a href="#" target="_blank" class="image">
+				<img src="{{ "assets/images/centrecom.png" | relative_url }}" alt="" data-position="center center" />
+			</a>
+			<div class="content">
+				<div class="inner">
+					<header class="major">
+						<h3>Centre Com-SMS Gateway, 2019</h3>
+					</header>
+					<p> It was a three months workplacement internship in Melbourne, Australia. The tasks was including designing, coding and testing of internal web based tools, support pages & software. He had involved in problem solving and analytical skill, with SQL and database design. A SMS module was developed with C#, .NET CORE 2.1, RESTful API, JavaScript, Ms. SQL Server 2017. The module was used to connect to Wholesalesms API to send SMS, all transactions were saved into Ms. SQL Server 2017 for history. Moreover, he had done a small research to use HttpClient by writing a report on HttpClient vs HttpWebRequest vs WebClient. Technologies: C#, .NET CORE 2.1, JavaScript, RESTFul API, MS. SQL Server 2017. </p>
+					
+				</div>
+			</div>
+		</section>
+
+
 	<section>
 			<a href="http://mycookingtoday.com" target="_blank" class="image">
 				<img src="{{ "assets/images/pic09.jpg" | relative_url }}" alt="" data-position="center center" />
@@ -97,7 +115,7 @@ nav-menu: true
 			<div class="content">
 				<div class="inner">
 					<header class="major">
-						<h3>Community Crime Safety on GoogleMap, 2017</h3>
+						<h3>AECOM-Community Crime Safety on GoogleMap, 2017</h3>
 					</header>
 					<p> It was a very cutting-edge web-portal with dynamic mapping data of Crime and Safety study from 1633 communes in Cambodia to show on the map by National, province centers, district centers and commune centers with longitudes and latitudes of Cambodia geographies. User can zoom to see each SNA level and also search for a specific location or by an issue. Technologies: C#, MVC3 .NET, JavaScript, GoogleMap API. </p>
 					
@@ -112,7 +130,7 @@ nav-menu: true
 			<div class="content">
 				<div class="inner">
 					<header class="major">
-						<h3>Cambodia National Police-eCrime, 2016</h3>
+						<h3>URS, AECOM-Cambodia National Police-eCrime, 2016</h3>
 					</header>
 					<p> Cambodia National Police, it is being used internally in the National Police system in Cambodia. It is recording the criminal cases nationwide to produce the evident-based for management purposes. Technologies: C#, MVC3 .NET, JQuery, JavaScript, Fluent NHibernate, Ms. SQL Server, Git with BitBucket.  </p>
 				</div>
@@ -126,7 +144,7 @@ nav-menu: true
 			<div class="content">
 				<div class="inner">
 					<header class="major">
-						<h3>Court of Appeal Phnom Penh- Case Management System, 2015</h3>
+						<h3>URS-AECOM-Court of Appeal Phnom Penh- Case Management System, 2015</h3>
 					</header>
 					<p>It is called CoA-CCMS, it was built with PHP I have completely changed the flow of the case registration into TAB and generate the reports with lovely graphic for Management. To protect the injection I am changing the MySQL connection to use PDO (PHP Data Object). Technologies: PHP, MySQL, JavaScript,  </p>
 				</div>
