@@ -36,32 +36,32 @@ o	Software & Hardware, Network & Server Systems, Windows Server, Linux, Synology
     </div>
      <div class="box alt">
         <div class="row 50% uniform">
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/agilefoundations.png %}" alt="" /></span> </div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/ai.png %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/certificates/apiandwebservices.png %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/agilefoundations.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/ai.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/apiandwebservices.png" | relative_url }}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/aps.netcore.png %}" alt="" /></span> </div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/asp.netcoreapi.png %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/certificates/bigdata.png %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/aps.netcore.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/asp.netcoreapi.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/bigdata.png" | relative_url }}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/blockchainbasics.png %}" alt="" /></span> </div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/cloudcomputing.png %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/certificates/dataanalytics.png %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/blockchainbasics.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/cloudcomputing.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/dataanalytics.png" | relative_url }}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/dotnetprogramming.png %}" alt="" /></span> </div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/git.png %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/certificates/nodejs.png %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/dotnetprogramming.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/git.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/nodejs.png" | relative_url }}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/nodejsapimongo.png %}" alt="" /></span> </div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/nodejsrestfulapi.png %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/certificates/pitchingyourself.png %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/nodejsapimongo.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/nodejsrestfulapi.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/pitchingyourself.png" | relative_url }}" alt="" /></span></div>
              <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/programmingfoundation.png %}" alt="" /></span> </div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/reactnative.png %}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{% link assets/certificates/trelloessentialtraining.png %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/programmingfoundation.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/reactnative.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/trelloessentialtraining.png" | relative_url }}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/vr.png %}" alt="" /></span> </div>
-            <div class="4u"><span class="image fit"><img src="{% link assets/certificates/webprogrammingfoundation.png %}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/vr.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/webprogrammingfoundation.png" | relative_url }}" alt="" /></span></div>
         </div>
     </div>    
 </div>
