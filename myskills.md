@@ -44,23 +44,30 @@ o	Software & Hardware, Network & Server Systems, Windows Server, Linux, Synology
             <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/asp.netcoreapi.png" | relative_url }}" alt="" /></span></div>
             <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/bigdata.png" | relative_url }}" alt="" /></span></div>
             <!-- Break -->
+             <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/asp.netcoreappdeploy.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/asp.netcorerazor.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/datascienceandanalytics.png" | relative_url }}" alt="" /></span></div>
+            <!-- Break -->
             <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/blockchainbasics.png" | relative_url }}" alt="" /></span> </div>
-            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/cloudcomputing.png" | relative_url }}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/dataanalytics.png" | relative_url }}" alt="" /></span></div>
+             <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/blockchainbeyond.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/cloudcomputing.png" | relative_url }}" alt="" /></span></div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/dotnetprogramming.png" | relative_url }}" alt="" /></span> </div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/dataanalytics.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/datascienceandanalytics.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/dotnetprogramming.png" | relative_url }}" alt="" /></span> </div>
+            <!-- Break -->
             <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/git.png" | relative_url }}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/nodejs.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/nodejs.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/nodejsapimongo.png" | relative_url }}" alt="" /></span> </div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/nodejsapimongo.png" | relative_url }}" alt="" /></span> </div>
             <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/nodejsrestfulapi.png" | relative_url }}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/pitchingyourself.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/pitchingyourself.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/programmingfoundation.png" | relative_url }}" alt="" /></span> </div>
              <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/programmingfoundation.png" | relative_url }}" alt="" /></span> </div>
             <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/reactnative.png" | relative_url }}" alt="" /></span></div>
-            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/trelloessentialtraining.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/trelloessentialtraining.png" | relative_url }}" alt="" /></span></div>
+            <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/vr.png" | relative_url }}" alt="" /></span> </div>
             <!-- Break -->
-            <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/vr.png" | relative_url }}" alt="" /></span> </div>
             <div class="4u"><span class="image fit"><img src="{{ "assets/certificates/webprogrammingfoundation.png" | relative_url }}" alt="" /></span></div>
         </div>
     </div>    
