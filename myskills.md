@@ -69,5 +69,12 @@ o	Software & Hardware, Network & Server Systems, Windows Server, Linux, Synology
             <div class="4u$"><span class="image fit"><img src="{{ "assets/certificates/webprogrammingfoundation.png" | relative_url }}" alt="" /></span></div>
         </div>
     </div>    
+    <div class="inner">
+        <header class="major">
+            <h2>Member of the ACS - Certified Technologist (MACS CT)</h2>
+        </header>
+        <span class="image fit"><img src="{{ "assets/certificates/ct.jpg" | relative_url }}" alt="" /></span>
+    </div>
+
 </div>
 
