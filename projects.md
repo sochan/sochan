@@ -2,7 +2,7 @@
 title: Experiences / Projects
 layout: landing
 description: 'o The Commonwealth Scientific and Industrial Research Organisation (CSIRO), Deakin University <br/>	o	AECOM, Coffey International Development, DFAT, UNDP <br/>o	Cambodia National Police, General Department of Prison, Ministry of Justice of Cambodia, NCDD <br/> o	RiesterGuru (Allianz), MyService (Silicon Valley, USA), PAN Localization <br/>o	 Japan corporation SHARP, NEC and NMDA (New Media Development Association)'
-image: 
+image: assets/images/Japan2007.jpg
 nav-menu: true
 ---
 
