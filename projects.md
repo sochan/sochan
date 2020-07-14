@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Highlight</h2>
 		</header>
-		<p>11+ years’ IT professional experiences, very familiar in NodeJS, ReactJS, C#, ASP.NET, MVC, JavaScript, Java, C, C++, Python, jQuery, CSS, Bootstrap, Mobile Web Application, OOP, Agile with various international organizations, world-class companies with initial background from Silicon Valley, North America. I am a problem solver, I am doable attitude is nothing impossible, I am fluent in English, French and Khmer.</p>
+		<p>From Deakin University, Melbourne, Australia I recently graduated Master of IT Professional with the top score, <b>100 marks for Project Delivery</b>. 12+ years’ IT professional experiences, very familiar in NodeJS, ReactJS, C#, ASP.NET, MVC, JavaScript, Java, C, C++, Python, jQuery, CSS, Bootstrap, Mobile Web Application, OOP, Agile with various international organizations, world-class companies with initial background from Silicon Valley, North America. I am a problem solver, I am doable attitude is nothing impossible, I am fluent in English, French and Khmer. Moreover, I am preparing for Blockchain, IoT, Cloud Technologies, AI, Machine Learning.</p>
 	</div>
 </section>
 
