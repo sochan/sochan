@@ -21,7 +21,6 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
-
 	<section>
 			<a href="https://github.com/sochan/insightsquero2" target="_blank" class="image">
 				<img src="{{ "https://media.giphy.com/media/lqYUEtMTwyOjKjpP4L/giphy.gif" | relative_url }}" alt="" data-position="center center" />
@@ -31,14 +30,13 @@ nav-menu: true
 					<header class="major">
 						<h3>Major Thesis- EEG Brain Signals, Machine Learning to Control Sphero 2.0, 2019</h3>
 					</header>
-					<p>Major Thesis at Deakin University. It was tested with Emotiv Insight headset and Sphero 2.0 robot. It was using NodeJS and Cortex V2.0. Technologies: NodeJS, Emotive Cortex, Emotive Insights BCI.  <a href="https://github.com/sochan/insightsquero2" class="icon fa-github" target="_blank"><span class="label">Github</span></a></p>
+					<p><a href="assets/reports/EEG Brain Signals Mental Commands to control Sphero 2.0 Robot.pdf" target="_blank"> Major Thesis</a> at Deakin University. It was tested with Emotiv Insight headset and Sphero 2.0 robot. It was using NodeJS and Cortex V2.0. Technologies: NodeJS, Emotive Cortex, Emotive Insights BCI.  <a href="https://github.com/sochan/insightsquero2" class="icon fa-github" target="_blank"><span class="label">Github</span></a></p>
 					<ul class="actions">
 						<li><a href="https://github.com/sochan/insightsquero2" class="button" target="_blank">Learn more</a></li>
 					</ul>
 				</div>
 			</div>
-		</section>
-
+	</section>
 	<section>
 		<a href="https://annotatingtext.mybluemix.net" target="_blank" class="image">
 			<img src="{{ "assets/images/CSIRO_annotating.jpg" | relative_url }}" alt="" data-position="center center" />
