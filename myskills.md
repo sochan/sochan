@@ -2,7 +2,7 @@
 layout: post
 title: Skills, Licenses & Certifications
 description: o	Project Management, System Architect, Analysis and Programming. <br/><br/> o Cloud Technologies, Google Cloud, IBM Cloud, AWS<br/><br/> o	Technologies, IoT, Blockchain, Web and Windows application, Mobile Application, JavaScript, C#, NodeJS, ReactJS, .NET CORE, Python, JAVA, C++, C, IBM Cloud, Google Cloud, AZURE, MVC, MVVM, HTML5, jQuery, Bootstrap, CSS, OOP, Lua.<br/><br/> o Databases, Ms. SQL Server, MySQL, CloudantDB, MongoDB.
-image: assets/images/pic11.jpg
+image: assets/certificates/ACS_members_web_ct.jpg
 nav-menu: true
 ---
 o	Project management with Agile/SCRUM
@@ -74,6 +74,7 @@ o	Software & Hardware, Network & Server Systems, Windows Server, Linux, Synology
             <h2>Member of the ACS - Certified Technologist (MACS CT)</h2>
         </header>
         <span class="image fit"><img src="{{ "assets/certificates/ct.jpg" | relative_url }}" alt="" /></span>
+        <span class="image fit"><img src="{{ "assets/images/pic11.jpg" | relative_url }}" alt="" /></span>
     </div>
 
 </div>
