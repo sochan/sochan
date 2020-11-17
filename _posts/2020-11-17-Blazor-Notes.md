@@ -16,6 +16,36 @@ add-migration Initial
 Scaffold-DbContext "Server=.\;Database=db;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities
 ```
 
+### App.razor
+```console
+<CascadingAuthenticationState>
+    <Router AppAssembly="@typeof(Program).Assembly">
+        <Found Context="routeData">
+            <!--
+                <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+            -->
+            <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)">
+                <NotAuthorized>
+                    <h1>Sorry</h1>
+                    <p>You are not authorized to reach this page.</p>
+                    <p>You may need to login with an authorized user.</p>
+                </NotAuthorized>
+                <Authorizing>
+                    <h1>Authenticate in progress</h1>
+                </Authorizing>
+            </AuthorizeRouteView>
+        
+        </Found>
+            <NotFound>
+                <LayoutView Layout="@typeof(MainLayout)">
+                    <p>Sorry, there's nothing at this address.</p>
+                </LayoutView>
+            </NotFound>
+        </Router>
+    </CascadingAuthenticationState>
+
+```
+
 ### Tracking page, Authorized pages to a specific role
 
 ```console
