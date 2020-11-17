@@ -13,7 +13,7 @@ add-migration Initial
 
 ### Reverse Engineer (no needs in this project), it will generate classes and DbContext for tables in Ms. SQL Server
 ```console
-Scaffold-DbContext "Server=.\;Database=ComplizeWeb;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities
+Scaffold-DbContext "Server=.\;Database=db;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities
 ```
 
 ### Tracking page, Authorized pages to a specific role
@@ -45,7 +45,7 @@ Scaffold-DbContext "Server=.\;Database=ComplizeWeb;Trusted_Connection=True;" Mic
 @inject ILogger<Login> Logger
 
 @using Microsoft.AspNetCore.Identity
-<h2>Complize</h2>
+<h2>MyService</h2>
 <hr />
 <AuthorizeView>
     <Authorized Context="auth">
@@ -131,4 +131,41 @@ Scaffold-DbContext "Server=.\;Database=ComplizeWeb;Trusted_Connection=True;" Mic
 }
 ```
 
+### ENUMS
 
+```console
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace MyService.Web.Helpers
+{
+    [Flags]
+    public enum Roles
+    {
+        //None = 0b_0000_0000,  // 0
+        User = 0b_0000_0001,  // 1
+        Customer = 0b_0000_0010,  // 2
+        Advisor = 0b_0000_0100,  // 4
+        Supervisor = 0b_0000_1000,  // 8
+        Administrator = 0b_0001_0000,  // 16
+        Manager = 0b_0010_0000,  // 32
+
+    }
+
+    public class Role
+    {
+        public string Name { get; set; }
+        public int Value { get; set; }
+    }
+}
+
+```
+
+### Enum operation
+<section>
+     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum" target="_blank">
+        How to use Enum in C#
+    </a>
+</section>
