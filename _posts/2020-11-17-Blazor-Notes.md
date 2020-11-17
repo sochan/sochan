@@ -5,29 +5,29 @@ description: Working with Blazor, EF Core, please see some important tips
 image: 
 ---
 
-# Some command line (if change model before dotnet run; need to remove all from Migrations first and delete changed tables or the whold database)
-## Add migrations, change model
+## Some command line (if change model before dotnet run; need to remove all from Migrations first and delete changed tables or the whold database)
+### Add migrations, change model
 ```console
 add-migration Initial
 ```
 
-## Reverse Engineer (no needs in this project), it will generate classes and DbContext for tables in Ms. SQL Server
+### Reverse Engineer (no needs in this project), it will generate classes and DbContext for tables in Ms. SQL Server
 ```console
 Scaffold-DbContext "Server=.\;Database=ComplizeWeb;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities
 ```
 
-# Tracking page, Authorized pages to a specific role
+### Tracking page, Authorized pages to a specific role
 
 ```console
 @attribute [Authorize(Roles = "Manager")]
 ```
 
-# Authorize to all users
+### Authorize to all users
 ```console
 @attribute [Authorize]
 ```
 
-# Mix display according to roles
+### Mix display according to roles
 ```console
 <AuthorizeView Roles="Administrator, Manager">
     <li class="nav-item px-3">
@@ -38,6 +38,7 @@ Scaffold-DbContext "Server=.\;Database=ComplizeWeb;Trusted_Connection=True;" Mic
 </AuthorizeView>
 
 ```
+### Login page
 ```console
 @page "/"
 @inject IUserService UsrService
