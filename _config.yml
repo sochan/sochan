@@ -6,12 +6,12 @@ description: Master of IT (Professional), Deakin University (Melbourne, Australi
 baseurl: "/sochan" # the subpath of your site, e.g. /blog
 url: sochan.github.io # the base hostname & protocol for your site
 author:
-street_address: Noble Park, Victoria
+street_address: Melbourne, Victoria
 city: Melbourne
 state: VIC
 zip_code: 3174
 country: Australia
-phone: (61) 411 469 999
+phone: 
 permalink: /:collection/:path
 
 # homepage tiles
