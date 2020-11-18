@@ -6,13 +6,15 @@ image:
 ---
 
 ## EF CORE
-Some command line (if change model before dotnet run; need to remove all from Migrations first and delete changed tables or the whold database)
+Some command line (if change model before dotnet run; need to remove all from Migrations first and delete changed tables or the whold database).
 ### Add migrations, change model
 ```console
 add-migration Initial
 ```
 
-### Reverse Engineer (no needs in this project), it will generate classes and DbContext for tables in Ms. SQL Server
+### Reverse Engineer
+ It is used togenerate classes and DbContext for tables in Ms. SQL Server.
+
 ```console
 Scaffold-DbContext "Server=.\;Database=db;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities
 ```
