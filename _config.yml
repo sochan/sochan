@@ -6,10 +6,10 @@ description: Master of IT (Professional), Deakin University (Melbourne, Australi
 baseurl: "/sochan" # the subpath of your site, e.g. /blog
 url: sochan.github.io # the base hostname & protocol for your site
 author:
-street_address: Melbourne, Victoria
+street_address: 
 city: Melbourne
 state: VIC
-zip_code: 3174
+zip_code:
 country: Australia
 phone: 
 permalink: /:collection/:path
