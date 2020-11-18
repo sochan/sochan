@@ -5,7 +5,8 @@ description: Working with Blazor, EF Core, please see some important tips
 image: 
 ---
 
-## Some command line (if change model before dotnet run; need to remove all from Migrations first and delete changed tables or the whold database)
+## EF CORE
+Some command line (if change model before dotnet run; need to remove all from Migrations first and delete changed tables or the whold database)
 ### Add migrations, change model
 ```console
 add-migration Initial
@@ -15,7 +16,7 @@ add-migration Initial
 ```console
 Scaffold-DbContext "Server=.\;Database=db;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities
 ```
-
+## Tracking page in Blazor
 ### App.razor
 ```console
 <CascadingAuthenticationState>
@@ -46,7 +47,7 @@ Scaffold-DbContext "Server=.\;Database=db;Trusted_Connection=True;" Microsoft.En
 
 ```
 
-### Tracking page, Authorized pages to a specific role
+### Authorized pages to a specific role
 
 ```console
 @attribute [Authorize(Roles = "Manager")]
