@@ -75,6 +75,7 @@ o	Software & Hardware, Network & Server Systems, Windows Server, Linux, Synology
         </header>
         <span class="image fit"><img src="{{ "assets/certificates/ct.jpg" | relative_url }}" alt="" /></span>
         <span class="image fit"><img src="{{ "assets/images/pic11.jpg" | relative_url }}" alt="" /></span>
+        <span class="image fit"><img src="{{ "assets/images/MyServiceTeam.jpg" | relative_url }}" alt="MyService Team 2008" /></span>
     </div>
 
 </div>
