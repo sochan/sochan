@@ -5,11 +5,16 @@ description: Working with Blazor, EF Core, please see some important tips
 image: 
 ---
 
-## EF CORE
-Some command line (if change model before dotnet run; need to remove all from Migrations first and delete changed tables or the whold database).
-### Add migrations, change model
+## EF CORE; Package Manager Console
+Some command line (if change model before dotnet run; if you need a clean data, please remove all from Migrations first and delete database or put new database name).
+### Add migrations Initial, initial the development 
 ```console
 add-migration Initial
+```
+### Ongoin development, Amendement new entities or change the existed model to database; AddBlogSubscriptionHistories: it is a note about new changes, for instance the below was added new field to Subscriptions table and add new table of Histories.
+```console
+add-migration AddBlogsSubscriptionHistories
+update-database
 ```
 
 ### Reverse Engineer
