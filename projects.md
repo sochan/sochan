@@ -97,7 +97,7 @@ nav-menu: true
 					<header class="major">
 						<h3>Mobile System Development-Learning Colours for Kids, 2018</h3>
 					</header>
-					<p> There are 12 levels for this game, each level kid can play many times due every time they win game, they still can play again to see other colour because it always random colour to play. Furthermore, during the play, parents can enable sounds, those sounds can help kids quickly fall asleep during play this game. Kids can click on each colour basket to listen to the voice saying each colour. There are animations and sounds while game over, won game or timeout. Technologies: HTML, JavaScript, CSS.
+					<p> There are 12 levels for this game, each level kid can play many times due to when they win a game level the player still can play again to see other colour because the colours were randomed to play. Furthermore, during the play, parents can enable sounds, those sounds can help kids quickly fall asleep during play this game. Kids can click on each colour basket to listen to the voice saying each colour. There are animations and sounds while game over, won game or timeout. Technologies: HTML, JavaScript, CSS.
   <a href="https://github.com/sochan/KidColourMobile" class="icon fa-github" target="_blank"><span class="label">Github</span></a></p>
 					<ul class="actions">
 						<li><a href="https://github.com/sochan/KidColourMobile" class="button" target="_blank">Learn more</a></li>
