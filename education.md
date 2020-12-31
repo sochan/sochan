@@ -19,8 +19,7 @@ image: assets/images/deakin_2019.jpg
 <!-- Content -->
 
 <h3>Jan 2018 to Dec 2019 - Master of Information Technology (Professional)</h3>
-<p><span class="image left"><img src="{{ "assets/images/deakin_2019.jpg" | relative_url }}" alt="" /></span>It was a two years full time in the Master of Information Technology (Professional) at Deakin University, Burwood, Melbourne, Australia. I graduated in December 2019 with accademic achievement of WAM 80%. All courses at Deakin University are taught in the English language. 16 credits were completed to graduate Master of Information Technology (Professional), 4 credits for Software and Services Development, 4 credits for core units, 4 credits for Major Thesis 2 credits for AR/VR Development, 1 credit for IT Internship, 1 credit for Cyber Security Management. <a class='icon alt fa-graduate-cap' href='https://www.myequals.net/' target='_blank'>&nbsp;Graduated Documents</a></p>
-<!-- sochan.mao@gmail.com Austral!a09 -->
+<p><span class="image left"><img src="{{ "assets/images/deakin_2019.jpg" | relative_url }}" alt="" /></span>It was a two years full time in the Master of Information Technology (Professional) at Deakin University, Burwood, Melbourne, Australia. I graduated in December 2019 with accademic achievement of WAM 80%. All courses at Deakin University are taught in the English language. 16 credits were completed to graduate Master of Information Technology (Professional), 4 credits for Software and Services Development, 4 credits for core units, 4 credits for Major Thesis 2 credits for AR/VR Development, 1 credit for IT Internship, 1 credit for Cyber Security Management. <a class='icon alt fa-graduate-cap' href='https://www.myequals.net/' target='_blank'>&nbsp;Graduated Documents.</a></p>
 
 
 <h4>Achievements	: </h4>
