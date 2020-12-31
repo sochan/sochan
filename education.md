@@ -19,10 +19,10 @@ image: assets/images/deakin_2019.jpg
 <!-- Content -->
 
 <h3>Jan 2018 to Dec 2019 - Master of Information Technology (Professional)</h3>
-<p><span class="image left"><img src="{{ "assets/images/deakin_2019.jpg" | relative_url }}" alt="" /></span>It was a two years full time in the Master of Information Technology (Professional) at Deakin University, Burwood, Melbourne, Australia. I graduated in December 2019 with accademic achievement of WAM 80%. All courses at Deakin University are taught in the English language. 16 credits were completed to graduate Master of Information Technology (Professional), 4 credits for Software and Services Development, 4 credits for core units, 4 credits for Major Thesis 2 credits for AR/VR Development, 1 credit for IT Internship, 1 credit for Cyber Security Management. <a class='fa-graduate-cap' href='https://www.myequals.net/' target='_blank'>&nbsp;Official Graduated Documents by MyEquals.net.</a></p>
+<p><span class="image left"><img src="{{ "assets/images/deakin_2019.jpg" | relative_url }}" alt="" /></span>It was a two years full time in the Master of Information Technology (Professional) at Deakin University, Burwood, Melbourne, Australia. I graduated in December 2019 with accademic achievement of WAM 80%. All courses at Deakin University are taught in the English language. 16 credits were completed to graduate Master of Information Technology (Professional), 4 credits for Software and Services Development, 4 credits for core units, 4 credits for Major Thesis 2 credits for AR/VR Development, 1 credit for IT Internship, 1 credit for Cyber Security Management.</p>
 
 
-<h4>Achievements	: </h4>
+<h4>Achievements	: <a class='fa-graduate-cap' href='https://www.myequals.net/' target='_blank'>&nbsp;Official Graduated Documents by MyEquals.net.</a></h4>
 <ul class='alt'>
 	<li>EEG Brain Signals, Machine Learning to Control Sphero 2.0, a Major Thesis of MIT at Deakin, graded HD of 83%. <a class='icon alt fa-github' href='https://github.com/sochan/insightsquero2' target='_blank'>&nbsp;See Git</a>.</li>	
 	<li>Annotating Text using online vocabularies for CSIRO, NodeJS, CloudantDB, IBM Natural Language Understanding, RESTful API, Python, IBM Cloud, <a class='icon alt fa-github' href='https://github.com/sochan/CSIROAnnotatingText' target='_blank'>&nbsp;See Git</a>, graded HD of 100%.</li> 
