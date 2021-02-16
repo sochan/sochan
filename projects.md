@@ -89,7 +89,7 @@ nav-menu: true
 		</section>
 
 		<section>
-			<a href="https://github.com/sochan/KidColourMobile" target="_blank" class="image">
+			<a href="https://alldones.com" target="_blank" class="image">
 				<img src="{{ "assets/images/colour.jpg" | relative_url }}" alt="" data-position="center center" />
 			</a>
 			<div class="content">
