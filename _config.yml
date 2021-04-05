@@ -1,8 +1,8 @@
 # site settings
 title: Sochan Mao MIT(Prof), MACS CT 
-subtitle: 12+ years’ IT professional experiences
+subtitle: 15+ years’ IT professional experiences
 email: sochan.mao@gmail.com
-description: Master of Information Technology (Professional), Deakin University (Melbourne, Australia), IoT, Blockchain, Cloud Technologies, Web and Windows application, Mobile Application, JavaScript, C#, NodeJS, ReactJS, .NET CORE, Python, JAVA, C++, C, IBM Cloud, Google Cloud, AZURE, MVC, MVVM, HTML5, jQuery, Bootstrap, CSS, OOP, Lua.
+description: Master of Information Technology (Professional), Deakin University (Melbourne, Australia), IoT, Blockchain, Cloud Technologies, Web and Windows application, Mobile Application, JavaScript, C#, NodeJS, ReactJS, .NET CORE, Microsoft Blazor, Python, JAVA, C++, C, IBM Cloud, Google Cloud, AZURE, MVC, MVVM, HTML5, jQuery, Bootstrap, CSS, OOP, Lua.
 baseurl: "/sochan" # the subpath of your site, e.g. /blog
 url: sochan.github.io # the base hostname & protocol for your site
 author:
